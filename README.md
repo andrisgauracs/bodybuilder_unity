@@ -9,6 +9,9 @@ This project also includes a demo scene with a state machine driven character co
 ![Screenshot](https://andris.gauracs.com/images/bodybuilder_1.gif)
 ![Screenshot](https://andris.gauracs.com/images/bodybuilder_2.gif)
 
+### This asset is part of a result based on my 3D character modeling tutorial on YouTube
+[![How to create 3D characters FAST using AI](https://img.youtube.com/vi/cPtMGkVRurI/0.jpg)](https://www.youtube.com/embed/cPtMGkVRurI?si=6e2S7jevlj_7J1L4 "How to create 3D characters FAST using AI")
+
 ### Demo scene controls
 
 - WASD or arrow keys to **move**
